@@ -1,9 +1,9 @@
-# David Hamp-Gonsalves
+# Richard J. Colosimo
 ## Senior Developer & Code Enthusiast
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+> [rickcolosimo.com](http://rickcolosimo.com)
+> [rick@thoughtstorm.com](mailto:rick@thoughtstorm.com)
+> 646-701-1080
 
 ------
 
