@@ -3,7 +3,7 @@
 
 > [rickcolosimo.com](http://rickcolosimo.com)
 > [rick@thoughtstorm.com](mailto:rick@thoughtstorm.com)
-> 646-701-1080
+> 201-632-1357
 
 ------
 
