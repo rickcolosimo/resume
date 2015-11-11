@@ -7,21 +7,22 @@
 
 ------
 
-### Technical
+### Corporate
 
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
-1. Python
-1. Git / SVN
-1. Cordova
+1. Formation
+1. Equity planning
+1. Board governance
+1. Commercial agreements
+1. Licensing
+1. Seed rounds
 <!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+1. Angel Rounds
+2. Venture financing
+<!-- 1. Civil litigation -->
+<!-- 1. Insurance defense litigation -->
+<!-- 1. Commercial litigation -->
+1. Knowledge management
+1. Decision support
 
 ------
 
