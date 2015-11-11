@@ -1,5 +1,5 @@
 # Richard J. Colosimo
-## Senior Developer & Code Enthusiast
+## Corporate Lawyer & Board Member
 
 > [rickcolosimo.com](http://rickcolosimo.com)
 > [rick@thoughtstorm.com](mailto:rick@thoughtstorm.com)
