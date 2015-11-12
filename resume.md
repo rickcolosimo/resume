@@ -15,7 +15,6 @@
 1. Commercial agreements
 1. Licensing
 1. Seed rounds
-<!-- 1. Spring / Wicket -->
 1. Angel Rounds
 2. Venture financing
 <!-- 1. Civil litigation -->
@@ -28,14 +27,21 @@
 
 ### Experience
 
-**OlenderFeldman LLP** Summit, New Jersey __2012-Present__
+**OlenderFeldman LLP** New Jersey & New York 2012-Present
 *Senior counsel in boutique corporate law firm.* 
-	Negotiate, structure, and execute: *acquisitions* by corporate and private equity buyers of $20m companies; *sales* by founders of $25-50m technology companies to private equity and strategic buyers; *capital raises* of $10m from angel and venture capital investors for startups and investment funds.
+	Negotiate, structure, and execute: **acquisitions** by corporate and private equity buyers of $20m companies; **sales** by founders of $25-50m technology companies to private equity and strategic buyers; **capital raises** of $10m from angel and venture capital investors for startups and investment funds.
 	Advise investment fund partnerships (real estate, startup, and alternative investments) on offering structure, securities compliance, and best practices for governance and operations.
-	Advise founders and CEOs on *business and legal risk management & mitigation* issues in corporate and commercial agreements and governance and employment decisions; frame decisions for board or management resolution and action.
+	Advise founders and CEOs on **business and legal risk management & mitigation** issues in corporate and commercial agreements and governance and employment decisions; frame decisions for board or management resolution and action.
 	Launch knowledge management and professional development programs.
 	Negotiate, structure, and draft commercial contracts: sales and purchases of goods and services, software development, and inbound and outbound licensing.
 
+**Private Practice** New York, New York 2009-2012
+*Sole practitioner engaged in general practice.* 
+	Outside general counsel for technology-driven growth businesses, developing negotiating positions and strategies for commercial agreements, investment proposals, and commercial disputes including licensing and IP strategy.
+	Orchestrated **$0** settlement of **$5,000,000** fraud claim against company and principals by disgruntled investors, including Ch. 7 dissolution of corporate defendant.
+	Of counsel to general practice law firm **Giuliano, McDonnell & Perrone LLP**. Provided comprehensive risk management advice to financial services companies related to compliance, merchant and consumer fraud, and document- and process-based approaches to risk management. Conducted federal and state court litigation and appeals; second-chair trial experience.
+	**Business law subject-matter expert** for **LexisNexis’s Lexis Practice Advisor** product. Created practice-focused corporate and transactional law knowledge management materials for in-house and law firm transactional lawyers.
+	**Startup law subject-matter expert** for **Practical Law Company’s Securities and Capital Markets** group. Created practice-focused startup and venture capital law knowledge management resources for large-firm lawyers and in-house counsel. Created distinctive, user-friendly forms to streamline early-stage venture financing transactions.
 
 
 
