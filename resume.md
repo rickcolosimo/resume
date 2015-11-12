@@ -86,5 +86,9 @@ ThoughtStorm Strategic Capital Mountain View, California & New Jersey 2001-2009
 
 ### Education
 
-**Bachelor of Technology (Software Development)** __2003 to 2007__
-	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
+**Cornell Law School** Ithaca, NY. JD, 1997
+	Moot Court Board; Editor, Journal of Law and Public Policy.
+	Law Clerk, Tompkins County District Attorney. First-chaired several bench trials; argued and won an appeal in the New York State Appellate Division.
+
+**Allegheny College** Meadville, PA. BA, English, cum laude, 1989. 
+	Graduated in three years, including one year in Paris.
