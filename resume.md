@@ -28,12 +28,6 @@
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
 **OlenderFeldman LLP** Summit, New Jersey __2012-Present__
 *Senior counsel in boutique corporate law firm.* 
 	Negotiate, structure, and execute: *acquisitions* by corporate and private equity buyers of $20m companies; *sales* by founders of $25-50m technology companies to private equity and strategic buyers; *capital raises* of $10m from angel and venture capital investors for startups and investment funds.
