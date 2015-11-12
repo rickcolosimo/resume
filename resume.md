@@ -34,6 +34,18 @@
 	Developed modern solutions and features for large Enterprise Java systems.
 	Collaborated with and guided global team members transitioning to client side architecture.
 	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+**OlenderFeldman LLP** Summit, New Jersey __2012-Present__
+*Senior counsel in boutique corporate law firm.* 
+	Negotiate, structure, and execute: *acquisitions* by corporate and private equity buyers of $20m companies; *sales* by founders of $25-50m technology companies to private equity and strategic buyers; *capital raises* of $10m from angel and venture capital investors for startups and investment funds.
+	Advise investment fund partnerships (real estate, startup, and alternative investments) on offering structure, securities compliance, and best practices for governance and operations.
+	Advise founders and CEOs on *business and legal risk management & mitigation* issues in corporate and commercial agreements and governance and employment decisions; frame decisions for board or management resolution and action.
+	Launch knowledge management and professional development programs.
+	Negotiate, structure, and draft commercial contracts: sales and purchases of goods and services, software development, and inbound and outbound licensing.
+
+
+
+
+
 
 **Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
 	Designed and implemented features and improvements for multiple enterprise sized applications.
