@@ -44,6 +44,27 @@
 	**Startup law subject-matter expert** for **Practical Law Company’s Securities and Capital Markets** group. Created practice-focused startup and venture capital law knowledge management resources for large-firm lawyers and in-house counsel. Created distinctive, user-friendly forms to streamline early-stage venture financing transactions.
 
 
+ThoughtStorm Strategic Capital Mountain View, California & New Jersey 2001-2009
+*General Counsel and Managing Director in boutique consulting firm focused on strategic financial transactions.* 
+	Advised management, boards, and investors of **emerging-growth, closely held, and distressed companies** on addressing complex business problems.
+	Supported management of firm-wide financial analysis team for large consulting firm, providing raw oversight, process and performance management improvements, and sales support based on connecting client needs to the firm’s core offerings – resulting in hundreds of annual analyses and millions of dollars of revenue to the client.
+	Provided M&A transaction support to Kuwaiti logistics company in **three global acquisitions**, including due diligence, pricing, post-merger integration, and transaction execution. 
+	Retained as **financial advisor** to CEO/majority shareholder for going-private transaction of public computer hardware manufacturer. Negotiated with board special committee; prepared and reviewed target’s SEC filings. Advised buyer on financial planning and forecasting requirements consistent with corporate governance requirements.
+	Managed Chapter 11 restructuring of **$15m public company client** as **financial advisor**; supervised bankruptcy counsel; provided investor and vendor relations services to forestall challenges, leading to confirmation of plan within four months.
+
+**Brobeck, Phleger & Harrison, LLP** Palo Alto, California 1999-2001
+*Senior corporate associate advised public and private companies and venture capital funds on investments, mergers and acquisitions, IPOs, corporate governance, and general corporate matters.*
+	Advised Cisco Systems, ETrade, and venture capital funds on investments in and acquisitions of private and public companies in deals from $1 million to **over $1 billion**. Executed strategic financial transactions for private and public companies across biotechnology, software, and hardware industries. Negotiated numerous term sheets and deal documents for venture financings, acquisitions, private placements, investment funds, and strategic alliances. 
+
+**Holland & Knight, LLP** New York, New York 1996-1999
+*Litigation associate advised international companies on management of “bet the company” litigation and risk management practices.*
+	Directly supervised outside and local counsel in commercial, securities, corporate governance, restructuring, maritime, insurance, and multistate product liability litigation and arbitration. Client industries included pesticides, asbestos, aviation, and shipping. 
+
+**United States Army (Infantry)** Ft. Benning, Georgia and Schofield Barracks, Hawaii 1989-1994
+*Platoon Leader directly supervised anti-armor missile combat team of 16 people and $4,000,000 of equipment and weapons.*
+	Graduated **Ranger**, Officer Candidate, Airborne, and Air Assault Schools.
+	With no experience, took over faltering **software integration project** and deployed software in 6 weeks after 6 months of failed efforts by other teams. Restructured procedures to eliminate bottlenecks, decrease processing time, and increase readiness rates.
+	Led junior and senior subordinates in all aspects of their performance. Developed personalized professional development plans for subordinates, prepared training objectives, and formally evaluated performance and completion of objectives.
 
 
 
