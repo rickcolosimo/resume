@@ -92,3 +92,14 @@ ThoughtStorm Strategic Capital Mountain View, California & New Jersey 2001-2009
 
 **Allegheny College** Meadville, PA. BA, English, cum laude, 1989. 
 	Graduated in three years, including one year in Paris.
+
+------
+
+###Additional Information
+Writing: legal blog at http://rickcolosimo.com; corporate finance blog at http://thoughtstorm.com; autism blog at http://asdworld.com
+Admitted to practice, New York, California, and New Jersey; United State District Courts for the Southern and Eastern Districts of New York and the Northern District of California; United States Court of Appeals for the Second Circuit.
+Casahl Technology, Inc., member of Board of Directors. 2004-2009.
+Staff Counsel, TEN (The Enterprise Network of Silicon Valley). 2003-2005. Advised CEO on strategic corporate structure issues.
+StoryCorps.org, member of Board of Directors, 2002-2009. Advised on governance issues, strategy, and financial operations.  
+Alumni Council, Allegheny College, 1998-2004. Advised pre-professional students, guest lecturer on law and economics topics.
+NYC Triathlon, 2011; Tough Mudder PA & NJ, 2011; Providian Relay, 199 miles, 2002; San Francisco Marathon, 2001; Maui Marathon, 2001; Honolulu Marathon, 1993; Oahu Perimeter Relay, 134 miles, 1992-1994.
